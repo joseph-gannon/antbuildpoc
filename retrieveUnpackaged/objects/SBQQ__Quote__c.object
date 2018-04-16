@@ -382,6 +382,17 @@
         <label>Non-Current Quote Locked Fields</label>
     </fieldSets>
     <fields>
+        <fullName>JenkinsTest2__c</fullName>
+        <externalId>false</externalId>
+        <label>JenkinsTest2</label>
+        <length>155</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>JenkinsTest__c</fullName>
         <externalId>false</externalId>
         <label>JenkinsTest</label>
