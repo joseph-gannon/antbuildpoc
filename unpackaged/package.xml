@@ -11,6 +11,7 @@
     <types>
         <members>*</members>
         <members>SBQQ__Quote__c</members>
+        <members>Account</members>
         <name>CustomObject</name>
     </types>
     <version>41.0</version>
